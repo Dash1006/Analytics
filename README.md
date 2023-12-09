@@ -25,4 +25,4 @@ This is the portfolio of all my homework assignments for Data Analytics.
 - ['A6 Segmentation'](https://colab.research.google.com/drive/1QncVx5ykNB8jVijwQy4Gf_EDhueQyOR2?usp=sharing)
 
 7. **Module 7: Create your own Folder with Gethub**
-- ['A7'](
+- ['A7'](README.md)
